@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Khanh👋
+An IT student of Post and Telecommunication Institute of Technology
 - 🌱 I’m currently learning machine learning and deep learning
 
 
