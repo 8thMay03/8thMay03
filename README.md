@@ -12,24 +12,22 @@
 
 ---
 
-## 🇬🇧 About Me · 🇻🇳 Về tôi
+## 🧑‍💻 About Me
 
-> 🇬🇧 **English** — Final-year Information Technology student at the **Posts and Telecommunications Institute of Technology (PTIT)**, with a dream of becoming an **AI Engineer**. I'm going deep into Machine Learning, Deep Learning, and Large Language Models, and love building systems that can actually *understand* and *reason*.
+Final-year Information Technology student at the **Posts and Telecommunications Institute of Technology (PTIT)**, with a dream of becoming an **AI Engineer**. I'm going deep into Machine Learning, Deep Learning, and Large Language Models, and love building systems that can actually *understand* and *reason*.
 
-> 🇻🇳 **Tiếng Việt** — Sinh viên **Công nghệ Thông tin năm cuối** tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**, với ước mơ trở thành một **kỹ sư AI**. Mình đang đi sâu vào Machine Learning, Deep Learning và Large Language Models, và yêu thích việc xây dựng những hệ thống thực sự có khả năng *hiểu* và *lập luận*.
-
-- 🌱 **Currently learning / Đang học:** Deep Learning · LLMs · RAG systems · AI Agents
-- 🎓 **Education / Học vấn:** PTIT — Final year / Năm cuối
-- 🎯 **Goal / Mục tiêu:** Become an AI Engineer / Trở thành kỹ sư AI
-- 💡 **Interests / Sở thích:** NLP, Computer Vision, Generative AI
+- 🌱 **Currently learning:** Deep Learning · LLMs · RAG systems · AI Agents
+- 🎓 **Education:** PTIT — Final year
+- 🎯 **Goal:** Become an AI Engineer
+- 💡 **Interests:** NLP, Computer Vision, Generative AI
 - ⚡ **Fun fact:** *"Teaching machines to learn is the closest thing to magic."*
 
 ---
 
-## 🛠️ Tech Stack · Kỹ năng
+## 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Languages / Ngôn ngữ lập trình</b></summary>
+<summary><b>💻 Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +61,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Tools / Công cụ</b></summary>
+<summary><b>⚙️ Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats · Thống kê
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=8thMay03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -97,7 +95,7 @@
 
 ---
 
-## 📫 Connect with me · Kết nối với mình
+## 📫 Connect with me
 
 <!-- 👇 Replace the placeholder links below with your own 👇 -->
 
@@ -118,8 +116,7 @@
 </p>
 
 <p align="center">
-  <i>⭐️ Feel free to explore my repositories — let's build the future with AI! 🚀</i><br/>
-  <i>⭐️ Khám phá các repo của mình — cùng nhau xây dựng tương lai với AI! 🚀</i>
+  <i>⭐️ Feel free to explore my repositories — let's build the future with AI! 🚀</i>
 </p>
 
 <!--
