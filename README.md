@@ -87,14 +87,6 @@ Final-year Information Technology student at the **Posts and Telecommunications 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=8thMay03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
-
----
-
 ## 📫 Connect with me
 
 <!-- 👇 Replace the placeholder links below with your own 👇 -->
